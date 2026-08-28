@@ -1,0 +1,4 @@
+Pan,2
+Pan,3
+zapatilla,1
+Ace,2
